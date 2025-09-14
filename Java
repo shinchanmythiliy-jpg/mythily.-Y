@@ -1,0 +1,3 @@
+function showMessage() {
+  alert("Hello! Welcome to Mythily's Portfolio ✨");
+}
